@@ -1,11 +1,13 @@
-## Hi there 👋 
+## Wendy Wang - @Wendy3123
+Hi I'm Wendy, future full stack software engineer. Make sure to check out some of my pinned projects!
+I enjoy working on teams collaborating and pair programming. 
+Aside from learning and working on new projects, I am a figure skater (yes still competing).
 ### 🖥 I'm currently learning
 - PostgreSQL
 * Python
 + Intro to Cybersecurity
 ### ✅ Goals for 2024
-- Develop first game using skills from python 
-* Develop first project to showcase
+- Develop first python game project
 
 <!--
 **Wendy3123/Wendy3123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
