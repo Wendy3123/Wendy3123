@@ -1,8 +1,11 @@
 ## Hi there 👋 
-### I'm currently learning
+### 🖥 I'm currently learning
 - PostgreSQL
 * Python
 + Intro to Cybersecurity
+### ✅ Goals for 2024
+- Develop first game using skills from python 
+* Develop first project to showcase
 
 <!--
 **Wendy3123/Wendy3123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
