@@ -1,8 +1,8 @@
-## Hi there 👋
-### I'm Wendy!
-- George Washington
-* John Adams
-+ Thomas Jefferson
+## Hi there 👋 
+### I'm currently learning
+- PostgreSQL
+* Python
++ Intro to Cybersecurity
 
 <!--
 **Wendy3123/Wendy3123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
