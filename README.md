@@ -1,4 +1,5 @@
-### Hi there 👋
+## Hi there 👋
+### I'm Wendy!
 
 <!--
 **Wendy3123/Wendy3123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
