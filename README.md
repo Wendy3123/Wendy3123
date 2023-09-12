@@ -1,9 +1,9 @@
 ## Wendy Wang - @Wendy3123
 Hi I'm Wendy, future full stack software engineer. I enjoy working on teams collaborating and pair programming. 
 
-Make sure to check out some of my pinned projects!
-
 Aside from learning and working on new projects, I am a figure skater (yes still competing).
+
+Make sure to check out some of my pinned projects!
 ### 🖥 I'm currently learning
 - PostgreSQL
 * Python
