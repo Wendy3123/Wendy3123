@@ -11,10 +11,9 @@ Make sure to check out some of my pinned projects!
 ### ✅ Goals for 2024
 - Develop first python game project
 
-### :fire: My Stats : 
-- Contribution
+### :fire: My Contribution Stats : 
 <img src='https://github-readme-streak-stats.herokuapp.com/?user=Wendy3123' alt='stats'/>
-*Top Languages
+### :fire: My Top Languages : 
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Wendy3123' alt='stats'/>
 
 
