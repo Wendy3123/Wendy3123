@@ -14,7 +14,7 @@ Make sure to check out some of my pinned projects!
 ### :fire: My Stats : 
 - Contribution
 <img src='https://github-readme-streak-stats.herokuapp.com/?user=Wendy3123' alt='stats'/>
--Top Languages
+*Top Languages
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Wendy3123' alt='stats'/>
 
 
