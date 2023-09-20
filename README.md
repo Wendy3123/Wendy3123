@@ -3,11 +3,15 @@ Hi I'm Wendy, future software engineer from New York. I enjoy working on teams c
 
 Aside from learning and working on new projects, I am a figure skater (yes still competing).
 
-Make sure to check out some of my pinned projects!
-### 🖥 I'm currently learning
-- In depth Algorithms
-* Python
-+ Intro to Cybersecurity
+Make sure to check out some of my pinned projects at [https://github.com/Wendy3123](https://github.com/Wendy3123)
+
+- 📫 How to reach me **wendywangg928@gmail.com**
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/wendy-wang-830717277" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wendy-wang-830717277" height="30" width="40" /></a>
+</p>
+### 🖥 I'm currently working on 
+- [TWIT-TER](https://github.com/Wendy3123/TWIT-TER)
 ### ✅ Goals for 2024
 - Develop MERN project (integrating Python)
 
