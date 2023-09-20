@@ -5,11 +5,11 @@ Aside from learning and working on new projects, I am a figure skater (yes still
 
 Make sure to check out some of my pinned projects!
 ### 🖥 I'm currently learning
-- PostgreSQL
+- In depth Algorithms
 * Python
 + Intro to Cybersecurity
 ### ✅ Goals for 2024
-- Develop first python game project
+- Develop MERN project (integrating Python)
 
 ### :fire: My Contribution Stats : 
 <img src='https://github-readme-streak-stats.herokuapp.com/?user=Wendy3123' alt='stats'/>
