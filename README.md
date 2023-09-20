@@ -12,7 +12,8 @@ Make sure to check out some of my pinned projects!
 - Develop first python game project
 
 ### :fire: My Stats : 
-<img src='https://github-readme-streak-stats.herokuapp.com/?user=Wendy3123' alt='my stats'/>
+<img src='https://github-readme-streak-stats.herokuapp.com/?user=Wendy3123' alt='stats'/> <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Wendy3123' alt='stats'/>
+
 
 <!--
 **Wendy3123/Wendy3123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
