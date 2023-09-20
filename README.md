@@ -1,5 +1,5 @@
 ## Wendy Wang - @Wendy3123
-Hi I'm Wendy, future full stack software engineer. I enjoy working on teams collaborating and pair programming. 
+Hi I'm Wendy, future software engineer from New York. I enjoy working on teams collaborating and pair programming. 
 
 Aside from learning and working on new projects, I am a figure skater (yes still competing).
 
@@ -10,6 +10,8 @@ Make sure to check out some of my pinned projects!
 + Intro to Cybersecurity
 ### ✅ Goals for 2024
 - Develop first python game project
+
+### :fire: My Stats : https://github-readme-streak-stats.herokuapp.com/?user=Wendy3123
 
 <!--
 **Wendy3123/Wendy3123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
