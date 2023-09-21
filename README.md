@@ -1,4 +1,4 @@
-<h1 background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab)> Wendy Wang - https://github.com/Wendy3123</h1>
+<h1 color:![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) `#c5f015`> Wendy Wang - https://github.com/Wendy3123</h1>
 
 👋🏼 Hi I'm Wendy, future software engineer from New York. I enjoy working on teams collaborating and pair programming.
 
