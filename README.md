@@ -20,7 +20,7 @@
 
 ### :fire: My Stats : 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wendy3123&show_icons=true&locale=en&layout=compact" alt="wendy3123" /></p><p><img align="center" src="[https://github-readme-streak-stats.herokuapp.com/?user=wendy3123](https://github-readme-streak-stats.herokuapp.com?user=kattni)" alt="wendy3123" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wendy3123&show_icons=true&locale=en&layout=compact" alt="wendy3123" /></p>
 
 
 <h3 align="left">Connect with me:</h3>
