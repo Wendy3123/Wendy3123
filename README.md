@@ -1,4 +1,4 @@
-<h1 color: `#c5f015`> Wendy Wang - https://github.com/Wendy3123</h1>
+<h1> Wendy Wang - https://github.com/Wendy3123</h1>
 
 👋🏼 Hi I'm Wendy, future software engineer from New York. I enjoy working on teams collaborating and pair programming.
 
