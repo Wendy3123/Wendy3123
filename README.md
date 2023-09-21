@@ -1,6 +1,6 @@
 <h1 align="center"> Wendy Wang - https://github.com/Wendy3123</h1>
-👋🏼 Hi I'm Wendy, future software engineer from New York. I enjoy working on teams collaborating and pair programming.
 
+👋🏼 Hi I'm Wendy, future software engineer from New York. I enjoy working on teams collaborating and pair programming.
 
 ❄️ Aside from learning and working on new projects, I am a figure skater (yes still competing).
 
