@@ -13,7 +13,8 @@
 - [TWIT-TER](https://github.com/Wendy3123/TWIT-TER)
 
 ### ✅ Goals for 2024
-- Develop MERN project (integrating Python)
+- Develop another MERN stack project
+- Develop a real world app utilizing Python
 
 <h3 align="left">Languages and Tools:</h3>
 <div style="background-color: white ">
