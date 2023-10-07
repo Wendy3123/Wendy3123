@@ -15,6 +15,7 @@
 ### ✅ Goals for 2024
 - Develop another MERN stack project
 - Develop a real world app utilizing Python
+- Collab with a team to create an app of their choice
 
 <h3 align="left">Languages and Tools:</h3>
 <div style="background-color: white ">
