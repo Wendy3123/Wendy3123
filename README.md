@@ -10,7 +10,7 @@
 
 
 ### 🖥 I'm currently working on 
-- [TWIT-TER](https://github.com/Wendy3123/TWIT-TER)
+- [TWIT-TER](https://github.com/Wendy3123/TheTropicalCollection)
 
 ### ✅ Goals for 2024
 - Develop another MERN stack project
