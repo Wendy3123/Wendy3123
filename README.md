@@ -2,7 +2,7 @@
 
 👋🏼 Hi I'm Wendy, future software engineer from New York. I enjoy working on teams collaborating and pair programming.
 
-❄️ Aside from learning and working on new projects, I am a figure skater (yes still competing).
+❄️ Aside from learning and working on new projects, I am a figure skater.
 
 ⭐️ Make sure to check out some of my pinned projects at [https://github.com/Wendy3123](https://github.com/Wendy3123)
 
