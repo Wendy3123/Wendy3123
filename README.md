@@ -7,7 +7,7 @@
 ⭐️ Make sure to check out some of my pinned projects at [https://github.com/Wendy3123](https://github.com/Wendy3123)
 
 📫 How to reach me **wendywangg928@gmail.com**
-
+ 
 
 ### 🖥 I'm currently working on 
 - [The Tropical Collection](https://github.com/Wendy3123/TheTropicalCollection)
