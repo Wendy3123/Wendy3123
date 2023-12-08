@@ -9,7 +9,7 @@
 📫 How to reach me **wendywangg928@gmail.com**
  
 
-### 🖥 I'm currently working on 
+### 🖥 I'm currently working on  
 - [The Tropical Collection](https://github.com/Wendy3123/TheTropicalCollection)
 
 ### ✅ Goals for 2024
