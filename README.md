@@ -12,10 +12,6 @@
 ### 🖥 I'm currently working on  
 - [The Tropical Collection](https://github.com/Wendy3123/TheTropicalCollection)
 
-### ✅ Goals for 2024
-- Develop another MERN stack project
-- Develop a real world app utilizing Python
-
 <h3 align="left">Languages and Tools:</h3>
 <div style="background-color: white ">
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
