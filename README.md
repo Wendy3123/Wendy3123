@@ -10,7 +10,7 @@
  
 
 ### 🖥 I'm currently working on  
-- [The Tropical Collection](https://github.com/Wendy3123/TheTropicalCollection)
+- [The Tropical Collection](https://github.com/Wendy3123/The-Tropical-Collection-v2)
 
 <h3 align="left">Languages and Tools:</h3>
 <div style="background-color: white ">
